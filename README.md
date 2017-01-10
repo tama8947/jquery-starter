@@ -1,9 +1,9 @@
-2016-js-1-workshop
+2016-jquery-workshop
 ==================
 
-IAP 2016 Javascript/jQuery Part I Workshop Starter Code
+IAP 2016 jQuery Workshop Starter Code
 
-This workshop will review the concepts covered in the first Javascript/jQuery lecture and go through a few examples of incorporating user interaction into an HTML page.
+This workshop will review the concepts covered in the jQuery lecture and go through a few examples of incorporating user interaction into an HTML page.
 
 All exercises should be completed without modifying any HTML or CSS files. Feel free to search online for help, documentation, or code examples.
 

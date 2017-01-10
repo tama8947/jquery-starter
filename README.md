@@ -1,7 +1,7 @@
 jQuery Workshop
 ==================
 
-IAP 2016 jQuery Workshop Starter Code
+IAP 2017 jQuery Workshop Starter Code
 
 This workshop will review the concepts covered in the jQuery lecture and go through a few examples of incorporating user interaction into an HTML page.
 

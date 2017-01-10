@@ -1,4 +1,4 @@
-2016-jquery-workshop
+jQuery Workshop
 ==================
 
 IAP 2016 jQuery Workshop Starter Code
